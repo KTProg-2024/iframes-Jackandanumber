@@ -1,7 +1,13 @@
 .youtube{
- width:200px;
- height: 200px}
-.color{
- background-color: #a851dc;
- border-style:solid;
+ width:200px; 
+ height: 200px;
 }
+.youtube_div{ background-color: #d73b3e;}
+
+.map{
+ width:200px; 
+ height: 200px
+}
+
+.color{ border-style:solid;}
+.color_div{background-color: #a851dc;}
