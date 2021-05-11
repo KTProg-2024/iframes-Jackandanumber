@@ -1,13 +1,34 @@
 .youtube{
+ border-style:solid;
  width:200px; 
  height: 200px;
 }
 .youtube_div{ background-color: #d73b3e;}
 
 .map{
+ border-style:solid;
  width:200px; 
- height: 200px
+ height: 200px;
 }
+.map_div{background-color: olive;}
 
-.color{ border-style:solid;}
+.twitter-tweet{
+ border-style:solid;
+ width:100px; 
+ height: 100px
+}
+.tweet_div{background-color: grey}
+
+.color{
+  border-style:solid;
+  width:200px; 
+ height: 200px
+  }
 .color_div{background-color: #a851dc;}
+
+.game{
+  width: 200px;
+  height: 200px;
+  border-style:solid;
+}
+.game_div{background-color: navy;}
